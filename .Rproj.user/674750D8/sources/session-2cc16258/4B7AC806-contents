@@ -2,17 +2,6 @@ SITS - Satellite Image Time Series Analysis for Earth Observation Data
 Cubes - Presentations 
 ================
 <img src="sits_sticker.png" alt="SITS icon" align="right" height="150" width="150"/>
-<!-- badges: start -->
-[![CRAN
-status](https://www.r-pkg.org/badges/version/sits)](https://cran.r-project.org/package=sits)
-[![R-check-dev](https://github.com/e-sensing/sits/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/e-sensing/sits/actions/workflows/R-CMD-check.yaml)
-[![Codecov](https://codecov.io/gh/e-sensing/sits/branch/dev/graph/badge.svg?token=hZxdJgKGcE)](https://codecov.io/gh/e-sensing/sits)
-[![Documentation](https://img.shields.io/badge/docs-online-blueviolet)](https://e-sensing.github.io/sitsbook/)
-[![Life
-cycle](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html)
-[![Software
-License](https://img.shields.io/badge/license-GPL--2-green)](https://github.com/e-sensing/sits/blob/master/LICENSE)
-<!-- badges: end -->
 
 ## Overview
 
