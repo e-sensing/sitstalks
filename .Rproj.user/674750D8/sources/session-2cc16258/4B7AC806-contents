@@ -17,4 +17,4 @@ cubes. This repository contains presentations associated to the SITS project.
 2.  [Introduction to
     SITS: Part2](https://github.com/e-sensing/sitstalks/blob/main/presentations/sits_overview_2023_part2.pptx)
 3.  [Ontologies for Big Earth Observation Data](https://github.com/e-sensing/sitstalks/blob/main/presentations/Ontology_BigEOData.pptx)
-4.  [Overview of Cloud Services for Earth Observation Data](https://github.com/e-sensing/sitstalks/blob/main/presentations/Cloud_Services_EOData.pptx)
+4.  [Overview of Cloud Services for Earth Observation Data](https://github.com/e-sensing/sitstalks/blob/main/presentations/Cloud_Services_EO_Data_2023.pptx)
