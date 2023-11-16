@@ -1,7 +1,7 @@
 SITS - Satellite Image Time Series Analysis for Earth Observation Data
 Cubes - Presentations 
 ================
-<img src="sits_sticker.png" alt="SITS icon" align="right" height="150" width="150"/>
+<img src="./sits_sticker.png" alt="SITS icon" align="right" height="150" width="150"/>
 
 ## Overview
 
