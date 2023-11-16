@@ -10,6 +10,8 @@ analysis. It enables users to apply machine learning techniques for
 classifying image time series obtained from earth observation data
 cubes. This repository contains presentations associated to the SITS project.
 
+These presentations are available under a [Creative Commons BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/). Credit must be given to the creator. Only noncommercial uses of the work are permitted. Adaptations must be shared under the same terms.
+
 ## Presentations associated to the SITS project 
 
 1.  [Introduction to
